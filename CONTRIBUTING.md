@@ -87,7 +87,7 @@ Este projeto segue o [Código de Conduta do Contribuidor](https://www.contributo
 
 Se você tiver dúvidas ou precisar de ajuda, entre em contato:
 - Abra uma issue no GitHub.
-- Envie um e-mail para: seu-email@dominio.com.
+- Envie um e-mail para: danielcguimaraes.03@gmail.com
 
 ---
 
